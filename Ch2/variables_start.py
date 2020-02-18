@@ -21,5 +21,7 @@ def someFunction():
 someFunction()
 print(f)
 
+
+#delete the vatiable
 del f
 print(f)
